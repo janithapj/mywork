@@ -1,0 +1,28 @@
+
+h1{
+     font-family: inherit;
+     color: rgb(26, 57, 143);
+  }
+
+  #facebook{
+      float: left;
+  }
+  body{
+     background-color:rgb(202, 199, 199);
+     text-align: left;
+     font-size: 25px;
+     padding-left: 150px;
+                
+   }
+.container{
+    text-align: center;
+     width: 400px;
+     height: 400px;
+    background-color:white;
+      border-color: wheat;
+      margin-top: 150px;
+     margin-left: 600px;
+     border-radius: 10px;
+     box-shadow: 5px ;
+  }
+       
